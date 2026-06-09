@@ -1,4 +1,4 @@
-# Jual Video Bot — MongoDB Edition v4
+# Video Bot — MongoDB Edition v4
 
 Bot Premium Sharing Video dengan backend MongoDB (prioritas) + SQLite (fallback offline).
 
