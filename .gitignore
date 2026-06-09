@@ -1,0 +1,8 @@
+.env
+data.db
+downloads/
+assets/qris.jpg
+__pycache__/
+*.pyc
+*.session
+*.session-journal
